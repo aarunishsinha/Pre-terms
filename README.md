@@ -1,4 +1,4 @@
-# Preterms
+# Pre-terms
 COL226 - Programming Languages
 
 Consider the representation of "pre-terms" using the following data type definition
